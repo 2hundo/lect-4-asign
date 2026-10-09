@@ -1,4 +1,4 @@
-//4
+//1
 function removeEven(array) {
     let result = [];
 
